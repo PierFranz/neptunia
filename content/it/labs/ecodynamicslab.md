@@ -1,16 +1,17 @@
 
 ---
 date: 2020-11-17
-description: "Laboratory of Ecodynamics and Sustainable Development"
+description: "Laboratorio di Ecodinamica e Sviluppo Sostenibile"
 featured_image: "/images/ecodynamicslab001.png"
 tags: ["lab"]
 title: "ECODYNAMICS Lab"
 logo: "/images/ecodynamicslab_logo.png"
 website: https://ecodynamics-uniparthenope.weebly.com/
-pi: Pierpaolo Franzese
+pi: Pier Paolo Franzese
 ---
 
-Il Laboratory of Ecodynamics and Sustainable Development è un laboratorio di ricerca del Dipartimento di Scienza e Tecnologia dell'Università degli Studi di Napoli “Parthenope”.
+Il Laboratorio di Ecodinamica e Sviluppo Sostenibile è un laboratorio di ricerca del Dipartimento di Scienze e Tecnologie dell'Università degli Studi di Napoli “Parthenope”.
+Le principali attività di ricerca del Laboratorio riguardano le seguenti tematiche:
 
 * **_Human-Environment interactions_**
 * **_Environmental accounting and indicators_**
@@ -22,3 +23,5 @@ Il Laboratory of Ecodynamics and Sustainable Development è un laboratorio di ri
 * **_Life cycle assessment_**
 * **_Geographic Information System_**
 * **_Systems ecology and ecological modelling_**
+
+Per maggiori informazioni visita il sito web del Laboratorio: https://ecodynamics-uniparthenope.weebly.com 
